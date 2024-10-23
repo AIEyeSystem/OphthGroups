@@ -15,6 +15,7 @@ AI Ophthalmology Groups and Researchers.
 | ---- |  --- | --- |
 |[iMed](https://imed.nimte.ac.cn/)|-|-|
 |A*STAR|IHPC,Singapore|-|-|
+|[xmed-lab](https://github.com/xmed-lab)|HKUST|-|-|
 
 ### Researchers
 | Name | Group | Institution | Homepage |Google Scholar|
